@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "temp": 20, "tds": 300, "flow": 1.5 "date": " 2020-08-16T21:03:33.123456Z" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
